@@ -35,7 +35,7 @@ Because Chrome Extension Manifest V3 strictly prohibits remotely hosted scripts 
 
 1. Clone or download this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/pdf-viewer-extension.git
+   git clone https://github.com/Vikaskanturi/pdf-extension.git
    ```
 
 2. Open PowerShell or your Terminal, navigate to the folder, and run the setup script. This script automatically downloads the exact correct versions of `pdf.js`, `pdf.worker.js`, and `pdf-lib.js` into a `/lib/` folder:
